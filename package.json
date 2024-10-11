@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "node-template",
   "version": "1.0.0",
   "description": "",
